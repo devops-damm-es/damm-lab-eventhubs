@@ -17772,7 +17772,7 @@ while(true)switch(s){case 0:n=$.aec
 s=n==null?3:4
 break
 case 3:s=5
-return A.t($.aee.hZ("4a36eb73-ba70-4cb4-9943-b6fa324b3334","0214bbd7-63bc-4670-999e-24d33f09e843","OgD8Q~LETDSLhzxI3MUsMapKkZ3ZhAR..B7ffbkW",new A.a1e("https://login.microsoftonline.com")),$async$lr)
+return A.t($.aee.hZ("4a36eb73-ba70-4cb4-9943-b6fa324b3334","0214bbd7-63bc-4670-999e-24d33f09e843","OgD8Q~LETDSLhzxI3MUsMapKkZ3ZhAR..B7ffbkW",new A.a1e("https://api.allorigins.win/get?url=https://login.microsoftonline.com")),$async$lr)
 case 5:p=b
 s=6
 return A.t($.aef.i_("https://damm-lab-eventhubs.servicebus.windows.net",p),$async$lr)
